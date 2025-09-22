@@ -3,7 +3,7 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)  
 ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)  
-![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-brightgreen)  
+![Status](https://img.shields.io/badge/status-%20Concluido-brightgreen)  
 ![License](https://img.shields.io/badge/license-Acad%C3%AAmico-red)  
 
 ---
