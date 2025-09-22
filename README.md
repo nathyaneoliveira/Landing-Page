@@ -1,3 +1,4 @@
+#  Landing  Page
 # 🦷 NOA Odontologia Especializada  
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)  
@@ -9,7 +10,7 @@
 ---
 
 ##  Descrição  
-O **NOA Odontologia Especializada** é um **site profissional** desenvolvido com **HTML5, CSS3 e JavaScript**, criado para
+O **Landing-Page** é um **site profissional** desenvolvido com **HTML5, CSS3 e JavaScript**, criado para
 apresentar os serviços da clínica e facilitar o contato com os pacientes.  
 
 A página foi construída de forma moderna, responsiva e interativa, utilizando:  
