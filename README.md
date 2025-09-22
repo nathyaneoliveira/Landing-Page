@@ -10,7 +10,7 @@
 
 ##  Descrição  
 O **NOA Odontologia Especializada** é um **site profissional** desenvolvido com **HTML5, CSS3 e JavaScript**, criado para
-apresentaros serviços da clínica e facilitar o contato com os pacientes.  
+apresentar os serviços da clínica e facilitar o contato com os pacientes.  
 
 A página foi construída de forma moderna, responsiva e interativa, utilizando:  
 -  **Vídeo de fundo** na página inicial  
